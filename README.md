@@ -35,7 +35,7 @@ Ao clicar na opção, você será redirecionado para uma tela onde poderá inser
 
 Aqui está um exemplo do que inseri no campo de entrada para análise de sentimentos:
 
-![Exemplo de Frases](exeplos.png)
+![Exemplo de Frases](exemplos.png)
 
 ## Passo 4: Executando a Análise de Sentimentos
 
